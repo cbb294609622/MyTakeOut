@@ -7,8 +7,8 @@ My name is CBB,This is My job.
 #完成IMEI串号的开发
     1.正确的IMEI串号，官方可查正版手机
     2.错误的IMEI串号拼接而成，水货，山寨手机
-
-#轮播图的开发
+#完成轮播图的开发
+    类:GuideActivity.class
 
 #广告页的开发
 
